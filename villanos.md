@@ -2,4 +2,6 @@
 
 * Dr. Doom
 * Red Skull
-* Dr Herrera
+* Capitan america
+* Nick Fury 
+* iRON MAN
